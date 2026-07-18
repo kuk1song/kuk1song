@@ -1,8 +1,10 @@
-Hi, I'm Haokun (Kuki), an AI engineer in Milan. I ship LLM products end
-to end: agent workflows and RAG on the backend, the full stack around
-them, and the evals that keep everything honest. Day job: custom
-enterprise agents at an AI-native B2B startup (FastAPI, Next.js, Qdrant,
-LiteLLM, GCP); those commits live on [@h-k-song](https://github.com/h-k-song).
+Hi, I'm Haokun Song (Kuki). I ship AI products end to end: agentic
+workflows, RAG pipelines, full-stack engineering, and the observability
+and evals that keep them honest.
+
+- **Now**: AI engineer at an AI-native B2B startup in Milan, shipping
+  custom enterprise agents; day-job commits live on
+  [@h-k-song](https://github.com/h-k-song)
 
 ### Products
 
@@ -12,7 +14,8 @@ LiteLLM, GCP); those commits live on [@h-k-song](https://github.com/h-k-song).
   app that moves a live coding session between Claude Code and Codex
 - [FeedMeJD](https://github.com/kuk1song/FeedMeJD): Chrome extension that
   maps skill patterns across job posts, fully on-device with Gemini Nano
-- learn-italian: an Italian vocabulary app I'm building now (WIP)
+- learn-italian: an Italian vocabulary app I'm building now (WIP, repo
+  still private)
 
 ### Open source
 
