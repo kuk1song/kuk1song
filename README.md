@@ -14,6 +14,10 @@ and evals that keep them honest.
   app that moves a live coding session between Claude Code and Codex
 - [FeedMeJD](https://github.com/kuk1song/FeedMeJD): Chrome extension that
   maps skill patterns across job posts, fully on-device with Gemini Nano
+- [Echo](https://huggingface.co/spaces/MCP-1st-Birthday/echo-agent-song) &
+  [AgentBell](https://huggingface.co/spaces/MCP-1st-Birthday/agentbell-mcp-server-song):
+  a visual bidirectional MCP host and a proactive voice interface for MCP
+  agents, built solo at the MCP 1st-Birthday hackathon
 - learn-italian: an Italian vocabulary app I'm building now (WIP, repo
   still private)
 
