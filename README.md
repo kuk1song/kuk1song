@@ -1,4 +1,4 @@
-Hi, I'm Haokun Song (Kuki). I ship AI products end to end: agentic
+Hi! This is Haokun Song (Kuki). I ship AI products end to end: agentic
 workflows, RAG pipelines, full-stack engineering, and the observability
 and evals that keep them honest.
 
