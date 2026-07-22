@@ -1,6 +1,6 @@
 Hi! This is Haokun Song (Kuki). I ship AI products end to end: agentic
 workflows, RAG pipelines, full-stack engineering, and the observability
-and evals that keep them honest.
+and evals that keep them honest 🙌🏻
 
 - **Now**: AI full-stack engineer at an AI-native B2B startup in Milan, shipping
   custom enterprise agents; day-job commits live on
